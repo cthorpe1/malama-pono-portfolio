@@ -1,0 +1,19 @@
+.StudentListContainer {
+  max-height: 350px;
+  text-align: left;
+  overflow: auto;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 1px 1px #888888;
+  max-height: 500px;
+}
+
+.StudentListContainer table {
+  border-spacing: 15px;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.StudentListContainer th {
+  padding: 10px;
+}

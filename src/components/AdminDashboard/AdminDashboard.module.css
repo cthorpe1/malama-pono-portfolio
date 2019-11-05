@@ -1,0 +1,29 @@
+.Dashboard {
+  display: flex;
+  flex-direction: column;
+  width: 99%;
+  margin: 2%;
+}
+
+.DashboardTop {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
+.AdminControls {
+  display: flex;
+  align-items: center;
+}
+
+.AdminControls button {
+  padding: 12px;
+  cursor: pointer;
+  background-color: #0d86b1;
+  color: white;
+  border-radius: 15px;
+  font-family: inherit;
+}
+
+.DashboardStudents {
+}

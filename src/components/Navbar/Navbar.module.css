@@ -1,0 +1,42 @@
+.Navbar {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 16px;
+    border-bottom: 1px solid black;
+}
+
+.LogoContainer {
+    display: flex;
+    align-content: center;
+}
+
+.LogoContainer img {
+    height: 55px;
+    width: auto;
+    margin-right: 6px;
+}
+
+.Links {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    align-content: center;
+}
+
+.Links li {
+    margin: 12px;
+    font-size: 1.2em;
+    transition: transform .2s;
+
+}
+
+.Link {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.Links li:hover {
+    transform: scale(1.1);
+}

@@ -1,0 +1,16 @@
+.StatusMessage {
+    margin: auto 16px;
+    text-align: center;
+}
+
+.StatusMessage button {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: #0d86b1;
+    color: white;
+}

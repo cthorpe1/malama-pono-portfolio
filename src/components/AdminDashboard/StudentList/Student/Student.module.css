@@ -1,0 +1,13 @@
+.Student td {
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+
+.Student button {
+    padding: 8px;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: #0D86B1;
+    color: white;
+    font-family: inherit;
+}

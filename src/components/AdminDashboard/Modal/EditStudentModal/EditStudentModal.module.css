@@ -1,0 +1,45 @@
+.EditStudentModal {
+    margin: 3% auto;
+}
+
+.EditStudentModal h2 {
+    text-align: center;
+}
+
+.EditStudentModal form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;  
+    margin: 0 auto;
+    height: 85%;
+    width: 75%;
+}
+
+.Group {
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
+
+.Group label {
+    margin-bottom: 8px;
+}
+
+.Group input {
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+
+.EditStudentModal form button {
+    padding: 10px 15px;
+    cursor: pointer;
+    background-color: #0d86b1;
+    color: white;
+    font-size: 18px;
+    border-radius: 5px;
+    margin: 10px auto;
+    width: 40%;
+}

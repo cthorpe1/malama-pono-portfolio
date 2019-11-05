@@ -1,0 +1,15 @@
+.CheckIn {
+  display: flex;
+  margin: 10% auto;
+
+}
+
+.CheckInContainer {
+  margin: auto 16px;
+  text-align: center;
+}
+
+.Hero img {
+  height: 330px;
+  width: auto;
+}

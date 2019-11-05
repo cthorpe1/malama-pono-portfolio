@@ -1,0 +1,8 @@
+.ReportModal {
+   max-height: 400px;
+   overflow: auto;
+}
+
+.ReportModal h2 {
+   text-align: center;
+}
