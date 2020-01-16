@@ -20,8 +20,7 @@ const Login = () => {
   return (
     <div className={classes.LoginContainer}>
       <h2>Please Login To Try The App</h2>
-      <p><strong>Username:</strong> testmyapp@email.com</p>
-      <p><strong>Password:</strong> test1!</p>
+      <p className={classes.LoginBanner}><strong>contact project owner for login credentials</strong></p>
      <form onSubmit={handleLogin}>
         <div className={classes.Group}>
           <label htmlFor="email">Email: </label>
